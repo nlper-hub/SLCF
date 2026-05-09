@@ -1,1 +1,1 @@
-# collaborative-IDRR
+# SLCF(SLM-LLM Collaboration Framework)
